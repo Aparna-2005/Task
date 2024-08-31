@@ -1,0 +1,21 @@
+.submit-btn{
+    width: 100px;
+    height: 50px;
+    border-radius: 10px;
+}
+body{
+   /* background-color:rgb(54, 53, 53); */
+   /* background-image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLJVoyjdL1XykUDuU50wGnM-zJVCprI2VY0w&s"; */
+  height: 100vh;
+    color: black;
+}
+.container{
+background-color: white;
+width: 600px;
+}
+.form-control{
+background-color: #ebebe0;
+border: 2px solid #d6d6c2;
+width: 500px;
+}
+
